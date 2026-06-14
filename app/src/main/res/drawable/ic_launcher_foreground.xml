@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Clipboard Main Body Card -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="1"
+        android:pathData="M34,34 h40 v42 c0,3 -2,5 -5,5 h-30 c-3,0 -5,-2 -5,-5 z" />
+
+    <!-- Clipboard Metal Handle Clip -->
+    <path
+        android:fillColor="#FFD700"
+        android:pathData="M44,24 h20 c1.5,0 2.5,1 2.5,2.5 v5 h-25 v-5 c0,-1.5 1,-2.5 2.5,-2.5 z" />
+
+    <!-- Clip Binder accent dot -->
+    <path
+        android:fillColor="#DA251D"
+        android:pathData="M54,27.5 m-2.5,0 a2.5,2.5 0,1 1,5 0 a2.5,2.5 0,1 1,-5 0" />
+
+    <!-- Two Horizontal lines representing document rows -->
+    <path
+         android:strokeColor="#B0BEC5"
+         android:strokeWidth="2.5"
+         android:strokeLineCap="round"
+         android:pathData="M42,44 h24 M42,52 h24" />
+
+    <!-- Standard Checkmark inside clipboard -->
+    <path
+        android:strokeColor="#4CAF50"
+        android:strokeWidth="4"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M42,65 l6,6 l14,-14" />
+</vector>

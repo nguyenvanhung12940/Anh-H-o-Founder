@@ -1,0 +1,6 @@
+{
+  "name": "Check-in Đoàn Viên",
+  "description": "Ứng dụng xử lý dữ liệu quét FaceID, tính toán thời gian tham gia chi tiết và thống kê tiêu chuẩn tình nguyện Đoàn viên xuất sắc dán từ Excel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
